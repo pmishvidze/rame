@@ -1,0 +1,6 @@
+C:\Users\pmishvidze\documents\visual studio 2015\Projects\HomeWork.NET\HomeWork.NET\bin\Debug\HomeWork.NET.exe.config
+C:\Users\pmishvidze\documents\visual studio 2015\Projects\HomeWork.NET\HomeWork.NET\bin\Debug\HomeWork.NET.exe
+C:\Users\pmishvidze\documents\visual studio 2015\Projects\HomeWork.NET\HomeWork.NET\bin\Debug\HomeWork.NET.pdb
+C:\Users\pmishvidze\documents\visual studio 2015\Projects\HomeWork.NET\HomeWork.NET\obj\Debug\HomeWork.NET.csprojResolveAssemblyReference.cache
+C:\Users\pmishvidze\documents\visual studio 2015\Projects\HomeWork.NET\HomeWork.NET\obj\Debug\HomeWork.NET.exe
+C:\Users\pmishvidze\documents\visual studio 2015\Projects\HomeWork.NET\HomeWork.NET\obj\Debug\HomeWork.NET.pdb
